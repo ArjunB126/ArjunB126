@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARJUN S BAJARE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React , D3.js , Chart.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **Frontend Technologies ,**
 
