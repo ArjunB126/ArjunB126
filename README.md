@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 I’m looking for help with ** Web Development ,**
+- 🤝 I’m looking for help with **Web Development**
 
 - 📫 How to reach me **arjunbajare626@gmail.com**
 
