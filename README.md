@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ARJUN S BAJARE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 I’m looking for help with **Frontend Technologies ,**
+- 🤝 I’m looking for help with ** Web Development ,**
 
 - 📫 How to reach me **arjunbajare626@gmail.com**
 
