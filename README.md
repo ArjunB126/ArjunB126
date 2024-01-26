@@ -9,11 +9,21 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk](https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arjun-bajare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-bajare/" height="30" width="40" /></a>
-</p>
+<div align='left'>
 
+<a href="https://www.linkedin.com/in/arjun-bajare/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://www.instagram.com/itz_arjun_126?igsh=MW91eGxicGxsNnMyeg==" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%2300acee.svg?style=for-the-badge&logo=instagram&logoColor=white&color=ea03d5" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:arjunbajare626@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 <p align="center">
 
