@@ -24,7 +24,7 @@
    
   ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=51a845)
-  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  ![Flask Badge](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
 
 - **Languages**:
