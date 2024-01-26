@@ -26,7 +26,7 @@
 </div>
 <br>
 
-<b> ## Skills </b>
+ ## Skills 
 <p align="center">
 
 - **Front-End Development**:
