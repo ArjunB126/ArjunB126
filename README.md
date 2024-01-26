@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💻 I Enthusiastic about **Web Stacks**.
+- 💻 I'm Enthusiastic about **Web Stacks**.
 
 - 📄 I’m currently open for an Intern or a new job opportunity, this is [Resume](https://drive.google.com/file/d/1B3qD3jn4q3rXubmH9PESRVJ5KJLZfcR0/view?usp=drive_link)
 
