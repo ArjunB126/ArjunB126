@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 A Passionate **Web Developer**
+- 💻 I Enthusiastic about **Web Stacks**.
 
 - 📄 I’m currently open for an Intern or a new job opportunity, this is [Resume]()
 
