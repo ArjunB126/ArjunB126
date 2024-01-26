@@ -8,9 +8,6 @@
 - 📄 I’m currently open for an Intern or a new job opportunity, this is [Resume]()
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk](https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk)
-<br>
-
 
  ## Skills 
 <p align="center">
@@ -27,6 +24,7 @@
    
   ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=51a845)
+  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
 
 - **Languages**:
