@@ -25,8 +25,8 @@
   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
 
-  - **Back-End Development**:
-  - 
+- **Back-End Development**:
+   
   ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=51a845)
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
