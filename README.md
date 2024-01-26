@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 A Passionate **Web Developer**
 
-- 📫 How to reach me **arjunbajare626@gmail.com**
+- 📄 I’m currently open for an Intern or a new job opportunity, this is [Resume]()
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk](https://drive.google.com/file/d/11n1dxO2fQ2nMQ7leX3GTFmOWWTNC27M6/view?usp=drivesdk)
 <br>
