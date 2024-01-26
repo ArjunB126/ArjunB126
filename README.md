@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ARJUN S BAJARE</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
+## About Me 
+
 - 🌱 I’m currently learning **React.js**
 
 - 💻 I Enthusiastic about **Web Stacks**.
