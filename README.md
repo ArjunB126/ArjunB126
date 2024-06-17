@@ -31,8 +31,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white&color=51a845)
 
 - **Languages**:
-  
-  ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
