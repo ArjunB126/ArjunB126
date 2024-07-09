@@ -1,5 +1,7 @@
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<p>I am <b>Arjun</b> based in Pune, India. I am a tech geek, pursued B.Tech in Information Technology . Earlier, I used to be curious about computers, graphics, and what happens behind the scenes. However, all that exists are binary digits. Very intriguing, indeed.
+
+I have experience with web development. So far I have C++, Python, Core - Java,Javascript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL,PHP, and Git/Github under my belt. To complement my web development skills, I am learning full stack.
 
 ## About Me 
 
