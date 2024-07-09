@@ -59,6 +59,12 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
  
  </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krushnx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
 
 ## Let's Connect 
 <div align='left'>
