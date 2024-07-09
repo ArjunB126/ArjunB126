@@ -1,5 +1,7 @@
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
+[![](https://visitcount.itsvg.in/api?id=ArjunB126&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h5>I am <b>Arjun</b> based in Pune, India. I am a tech geek, pursued B.Tech in Information Technology . Earlier, I used to be curious about computers, graphics, and what happens behind the scenes. However, all that exists are binary digits. Very intriguing, indeed.
 
@@ -58,6 +60,7 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
 
  
  </p>
+ 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
