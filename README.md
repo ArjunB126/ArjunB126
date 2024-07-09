@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ARJUN S BAJARE</h1>
+<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 ## About Me 
