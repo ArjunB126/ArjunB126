@@ -6,8 +6,7 @@
 I have experience with Web development. So far I have C++, Python, Core - Java, Javascript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, PHP, and Git/Github under my belt. To complement my web development skills, I am learning full stack.
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 ## Current Stats
 
 - 🌱 I’m currently learning **React.js**
