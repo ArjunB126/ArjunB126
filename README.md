@@ -8,7 +8,7 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 </p>
 
-## Current Stats
+## About Me
 
 - 🌱 I’m currently learning **React.js**
 
