@@ -12,7 +12,7 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
 
 ## About Me
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Devops**
 
 - 💻 I'm Enthusiastic about **Web Stacks**.
 
