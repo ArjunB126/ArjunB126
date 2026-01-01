@@ -75,7 +75,7 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
     <img src="https://img.shields.io/badge/instagram-%2300acee.svg?style=for-the-badge&logo=instagram&logoColor=white&color=ea03d5" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
-<a href="mailto:arjunbajare626@gmail.com" target="_blank">
+<a href="mailto:contact.bajare@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
