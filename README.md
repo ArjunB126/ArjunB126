@@ -71,7 +71,7 @@ I have experience with Web development. So far I have C++, Python, Core - Java, 
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://www.instagram.com/itz_arjun_126?igsh=MW91eGxicGxsNnMyeg==](https://www.instagram.com/_.arjun_126_?igsh=MW91eGxicGxsNnMyeg==)" target="_blank">
+<a href="https://www.instagram.com/_.arjun_126_?utm_source=qr&igsh=MW91eGxicGxsNnMyeg==" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%2300acee.svg?style=for-the-badge&logo=instagram&logoColor=white&color=ea03d5" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
